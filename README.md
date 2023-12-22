@@ -72,15 +72,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
 </a>
 
-<!-- Kibana -->
-<a href="https://www.elastic.co/kibana" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="40" height="40" />
-</a>
-
-<!-- Elastic Search -->
-<a href="https://www.elastic.co/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elastic Search" width="40" height="40" />
-</a>
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
