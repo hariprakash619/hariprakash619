@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F70404&random=false&width=435&lines=Hi+I'm+Hari+Prakash" alt="Typing SVG" /></a>
-
+![](https://komarev.com/ghpvc/?username=hariprakash619&style=flat-square)
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
