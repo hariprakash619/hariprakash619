@@ -24,5 +24,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/hariprakash_619?theme=default&font=baloo&extension=null)
-![Leetcode Stats](https://leetcard.jacoblin.cool/hariprakash_619?ext=heatmap)
 
