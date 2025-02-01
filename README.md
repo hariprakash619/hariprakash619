@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F70404&random=false&width=435&lines=Hi+I'm+Hari+Prakash" alt="Typing SVG" /></a>  
 ![](https://komarev.com/ghpvc/?username=hariprakash619&style=flat-square)  
 
-![Banner](A_professional_GitHub_profile_banner_for_Hari_Prak.png)
+![image](https://github.com/user-attachments/assets/c143ce3d-2b0b-4328-9697-bbdf3e63ab5e)
 
 ## 👨‍💻 About Me  
 🔹 Full-Stack Developer | Cloud Enthusiast | Open-Source Contributor  
