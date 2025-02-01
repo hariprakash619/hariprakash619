@@ -1,26 +1,53 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F70404&random=false&width=435&lines=Hi+I'm+Hari+Prakash" alt="Typing SVG" /></a>
-![](https://komarev.com/ghpvc/?username=hariprakash619&style=flat-square)
-## Languages and Tools
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F70404&random=false&width=435&lines=Hi+I'm+Hari+Prakash" alt="Typing SVG" /></a>  
+![](https://komarev.com/ghpvc/?username=hariprakash619&style=flat-square)  
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Banner](A_professional_GitHub_profile_banner_for_Hari_Prak.png)
+
+## 👨‍💻 About Me  
+🔹 Full-Stack Developer | Cloud Enthusiast | Open-Source Contributor  
+🔹 Passionate about solving complex problems with **React, Django, FastAPI, Node.js, and AWS**  
+🔹 4+ years of experience building **scalable applications & interactive dashboards**  
+🔹 **Master’s in Computer Science (ASU, 3.9 GPA)**  
+🔹 Love working on **API Integrations, AI/ML, and High-Performance Systems**  
+
+📫 **Reach me at:** [Email](mailto:hariprakash.619@gmail.com) | [Website](https://hariprakash619.github.io/) | [LinkedIn](https://linkedin.com/in/your-profile)  
+
+---  
+
+## 🚀 Featured Projects  
+
+### 📌 [Little Lemon Restaurant API](https://github.com/your-repo)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+- Developed a **secure, role-based API** for restaurant management  
+- Integrated **Djoser for authentication** and built a reservation system  
+
+### 📌 [NetFlex CDN](https://github.com/your-repo)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+- Built a **high-performance content delivery network**  
+- Implemented **advanced caching & sharding strategies**  
+
+---  
+
+## 📊 GitHub Stats  
+![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprakash619&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash619&layout=compact&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=hariprakash619&theme=highcontrast&hide_border=true)  
+
+---  
+
+## 📖 Currently Learning  
+- 🚀 Advanced **React & Next.js**  
+- ☁️ Cloud technologies (**AWS Lambda, DynamoDB**)  
+- 🤖 Machine Learning with **TensorFlow & PyTorch**  
+
+---  
+
+## 🌎 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hariprakash619.github.io/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash619)  
+
+
 
 
