@@ -15,12 +15,12 @@
 
 ## 🚀 Featured Projects  
 
-### 📌 [Little Lemon Restaurant API](https://github.com/your-repo)  
+### 📌 [Little Lemon Restaurant API](https://github.com/hariprakash619/LittleLemonAPI)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 - Developed a **secure, role-based API** for restaurant management  
 - Integrated **Djoser for authentication** and built a reservation system  
 
-### 📌 [NetFlex CDN](https://github.com/your-repo)  
+### 📌 [NetFlex CDN](https://github.com/hariprakash619)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 - Built a **high-performance content delivery network**  
