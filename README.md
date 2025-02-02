@@ -10,7 +10,7 @@
 🔹 **Master’s in Computer Science (ASU, 3.9 GPA)**  
 🔹 Love working on **API Integrations, AI/ML, and High-Performance Systems**  
 
-📫 **Reach me at:** [Email](mailto:hariprakash.619@gmail.com) | [Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hariprakash619.github.io/) | [LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash619)  
+📫 **Reach me at:** [Email](mailto:hariprakash.619@gmail.com) | [Website](https://hariprakash619.github.io/) | [LinkedIn](https://www.linkedin.com/in/hariprakashvelmurugan/)  
 ---  
 
 ## 🚀 Featured Projects  
@@ -39,6 +39,14 @@
 - 🚀 Advanced **React & Next.js**  
 - ☁️ Cloud technologies (**AWS Lambda, DynamoDB**)  
 - 🤖 Machine Learning with **TensorFlow & PyTorch**  
+
+---  
+
+## 🌎 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariprakashvelmurugan)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hariprakash619.github.io/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash619)  
+
 
 
 
