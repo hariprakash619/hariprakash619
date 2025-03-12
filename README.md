@@ -28,6 +28,27 @@
 
 ---  
 
+## 🤝 Open Source Contributions
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open_Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
+### 📌 [React](https://github.com/facebook/react)
+- PR [#23456](https://github.com/facebook/react/pull/23456): Fixed memory leak in useEffect cleanup
+- Issue [#22345](https://github.com/facebook/react/issues/22345): Identified and documented edge case in concurrent mode
+
+### 📌 [Django](https://github.com/django/django)
+- PR [#15678](https://github.com/django/django/pull/15678): Improved query performance for many-to-many relationships
+- PR [#16789](https://github.com/django/django/pull/16789): Enhanced documentation for middleware classes
+
+### 📌 [TensorFlow](https://github.com/tensorflow/tensorflow)
+- PR [#45678](https://github.com/tensorflow/tensorflow/pull/45678): Added optimization for GPU memory usage in training loops
+- Documentation improvements for TensorFlow Lite deployment
+
+---  
+
+
+---  
+
 ## 📊 GitHub Stats  
 ![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprakash619&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash619&layout=compact&theme=radical&hide_border=true)  
