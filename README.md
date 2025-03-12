@@ -33,8 +33,10 @@
 ![Open Source](https://img.shields.io/badge/Open_Source-%23F05032.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 
 ### 📌 [pyosMeta](https://github.com/pyOpenSci))
-- PR [#255](https://github.com/pyOpenSci/pyosMeta/pull/255)): 
-- Issue [#194](https://github.com/pyOpenSci/pyosMeta/issues/194)): In CONTRIBUTING.md, add more specifics on configuring API token
+- PR [#255](https://github.com/pyOpenSci/pyosMeta/pull/255): Maintainer for the CONTRIBUTING.md document.
+- Issue [#194](https://github.com/pyOpenSci/pyosMeta/issues/194): In CONTRIBUTING.md, add more specifics on configuring API token
+- PR [#261](https://github.com/pyOpenSci/pyosMeta/pull/261) : ProcessIssues.parse_issues(issues) should have a print /…count indicator so we know it's doing something #191 
+- Issue [#191](https://github.com/pyOpenSci/pyosMeta/issues/191):ProcessIssues.parse_issues(issues) should have a print / count indicator so we know it's doing something 
 
 ---  
 
