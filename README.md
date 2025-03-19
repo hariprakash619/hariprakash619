@@ -36,8 +36,10 @@
 - PR [#255](https://github.com/pyOpenSci/pyosMeta/pull/255): Maintainer for the CONTRIBUTING.md document.
 - Issue [#194](https://github.com/pyOpenSci/pyosMeta/issues/194): In CONTRIBUTING.md, add more specifics on configuring API token
 - PR [#261](https://github.com/pyOpenSci/pyosMeta/pull/261) : ProcessIssues.parse_issues(issues) should have a print /…count indicator so we know it's doing something #191 
-- Issue [#191](https://github.com/pyOpenSci/pyosMeta/issues/191):ProcessIssues.parse_issues(issues) should have a print / count indicator so we know it's doing something 
+- Issue [#191](https://github.com/pyOpenSci/pyosMeta/issues/191):ProcessIssues.parse_issues(issues) should have a print / count indicator so we know it's doing something
 
+### 📌 [openshift](https://github.com/openshift/oadp-operator)
+- PR [#1674](https://github.com/openshift/oadp-operator/pull/1674):Fix for Improve DPA additionalPrinterColumns #1674
 ---  
 
 ## 📊 GitHub Stats  
