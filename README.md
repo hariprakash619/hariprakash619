@@ -15,6 +15,17 @@
 
 ## 🚀 Featured Projects  
 
+### 📌 [Sound Vector Lyrics Recommender](https://soundevectoria.netlify.app/)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- Developed a Vector based search for music.
+- Created embeddings from audio features and lyrical context using transformer-based models.
+- Implemented KNN (K-Nearest Neighbors) algorithm for similarity searching.
+- Utilized cosine similarity metrics for accurate song matching.
+- Built a FastAPI backend for real-time vector querying.
+- https://soundevectoria.netlify.app/
+
 ### 📌 [Little Lemon Restaurant API](https://github.com/hariprakash619/LittleLemonAPI)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 - Developed a **secure, role-based API** for restaurant management  
